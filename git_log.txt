@@ -1,0 +1,11 @@
+$ git log --pretty=oneline
+9a1f43bf59d242b0d1ddbbd16ba1af06707fb9d9 (HEAD -> main, origin/main) Merge pull request #2 from DeusArtifex/wikipedia
+94032648b54117d29efe5313a67369e1d5367406 (tag: v1.1, origin/wikipedia, wikipedia) Wikipedia Day Events
+e0e711bdd9f3e968355935f1ca715828f302dc0c Wikipedia Day
+9b3aa6c9d7a38e0eb3557784e416910306bd3138 Merge pull request #1 from DeusArtifex/interlingwa
+d1aba7246bb310b7834a0c4b92c1168e001e1bbf (tag: v1.0) Fundamenty fenomenu interlingwy
+2ad0f6defc0f78ecfc0c4ce665c3c39d312bfccb Opis dnia interlingwy
+39ae02d488e82ff634cd4c62d70041588f9f2db7 Dzień interlingwy
+0bde93c25f0940f396ed0ab33be030bc59ea8193 Initial commit
+
+login@DESKTOP-O000000 MINGW64 ~/source/repos/Systemy-kontroli-b--d-w-i-wersji-zaliczenie (main)
